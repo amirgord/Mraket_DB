@@ -1,0 +1,581 @@
+Activities
+(3, 100, 1, '20230101')
+(6, 50, 2, '20230101')
+(3, -20, 1003, '20230201')
+(3, -10, 1004, '20230301')
+(6, -50, 1003, '20230301')
+(23, 20, 5, '20230401')
+(12, 10, 6, '20230501')
+(7, 50, 5, '20230501')
+(3, 100, 6, '20230601')
+(6, 50, 7, '20230601')
+(7, -20, 1008, '20230701')
+(7, -10, 1009, '20230801')
+(6, -50, 1008, '20230801')
+(23, 20, 11, '20230901')
+(11, 10, 11, '20231001')
+(87, 50, 11, '20231001')
+(81, 100, 14, '20231101')
+(82, 50, 17, '20231101')
+(20, 20, 15, '20240201')
+(11, 10, 16, '20240301')
+(7, 50, 15, '20240301')
+(1, 100, 16, '20240401')
+(22, 50, 17, '20240401')
+(20, 20, 12, '20240701')
+(11, 10, 21, '20240801')
+(7, -50, 1020, '20240801')
+(22, -50, 1022, '20240901')
+(20, 20, 12, '20241201')
+(11, 10, 21, '20250101')
+(20, 20, 16, '20250501')
+(11, 10, 29, '20250601')
+(1, -100, 1021, '20250701')
+(20, 200, 1, '20251001')
+(71, 560, 21, '20251101')
+(20, 200, 12, '20260301')
+(11, 100, 21, '20260401')
+(20, 290, 12, '20260801')
+(11, 190, 21, '20260901')
+(30, 260, 12, '20270101')
+(41, 610, 21, '20270201')
+(29, 20, 12, '20270601')
+(36, 100, 21, '20270701')
+(55, -10, 1009, '20271001')
+(40, 20, 12, '20271201')
+(11, 10, 21, '20271201')
+(20, 20, 16, '20280401')
+(11, 10, 29, '20280501')
+(7, 50, 1020, '20280501')
+(20, 200, 1, '20280901')
+(11, 560, 21, '20281001')
+(20, 200, 12, '20290201')
+(11, 100, 21, '20290301')
+(20, 290, 12, '20290701')
+(11, 190, 21, '20290801')
+(7, -50, 1020, '20290801')
+Branches
+(1, 'New York', 50)
+(2, 'Chicago', 50)
+(3, 'Los Angeles', 123)
+(4, 'Tel Aviv', 245)
+(5, 'Petah Tikva', 25)
+(6, 'Jerusalem', 25)
+(7, 'Haifa', 58)
+(8, 'Beer Sheva', 67)
+(9, 'Netanya', 25)
+(10, 'Rehovot', 34)
+(11, 'Ramat Gan', 25)
+(12, 'Rishon Lezion', 25)
+(13, 'Herzliya', 25)
+(14, 'Modiin', 25)
+(15, 'HaSharon', 25)
+(16, 'Jericho', 25)
+(17, 'Jerusalem', 25)
+(18, 'Haifa', 25)
+(19, 'Beer Sheva', 25)
+(20, 'Netanya', 25)
+(21, 'Rehovot', 25)
+(22, 'Ramat Gan', 25)
+(23, 'Rishon Lezion', 25)
+(24, 'Herzliya', 25)
+(25, 'Modiin', 25)
+(26, 'HaSharon', 25)
+(27, 'Jericho', 25)
+(28, 'Jerusalem', 25)
+(29, 'Haifa', 25)
+(30, 'Beer Sheva', 25)
+(31, 'Netanya', 25)
+(32, 'Rehovot', 25)
+(33, 'Ramat Gan', 25)
+(34, 'Rishon Lezion', 25)
+(35, 'Herzliya', 25)
+(36, 'Modiin', 25)
+(37, 'HaSharon', 25)
+(38, 'Jericho', 26)
+(39, 'Jerusalem', 275)
+(40, 'Haifa', 258)
+(41, 'Beer Sheva', 250)
+(42, 'Netanya', 252)
+(43, 'Rehovot', 223)
+(44, 'Ramat Gan', 212)
+(45, 'Rishon Lezion', 217)
+(46, 'Herzliya', 211)
+(47, 'Modiin', 211)
+(48, 'HaSharon', 277)
+(49, 'Jericho', 234)
+(50, 'Jerusalem', 123)
+(51, 'Haifa', 111)
+(52, 'Beer Sheva', 114)
+(53, 'Netanya', 89)
+(54, 'Rehovot', 56)
+(55, 'Ramat Gan', 78)
+(56, 'Rishon Lezion', 699)
+(57, 'Herzliya', 699)
+(58, 'Modiin', 45)
+(59, 'HaSharon', 45)
+(60, 'Jericho', 245)
+(61, 'Jerusalem', 45)
+(62, 'Haifa', 63)
+(63, 'Beer Sheva', 25)
+(64, 'Netanya', 25)
+(65, 'Rehovot', 25)
+(66, 'Ramat Gan', 25)
+Employees
+(1001, 'Jhon Doe', 30000.0, 1)
+(1002, 'John Smith', 40000.0, 2)
+(1003, 'John Brown', 50000.0, 3)
+(1004, 'John White', 60000.0, 4)
+(1005, 'John Black', 70000.0, 5)
+(1006, 'John Green', 80000.0, 6)
+(1007, 'John Blue', 90000.0, 7)
+(1008, 'John Pink', 100000.0, 8)
+(1009, 'John Gray', 110000.0, 9)
+(1010, 'John Purple', 120000.0, 10)
+(1011, 'John Orange', 130000.0, 11)
+(1012, 'John Yellow', 140000.0, 12)
+(1013, 'Elizabeth shlomo', 150000.0, 13)
+(1014, 'Elizabeth Cohen', 160000.0, 13)
+(1015, 'Elizabeth Levy', 170000.0, 13)
+(1016, 'Elizabeth Green', 180000.0, 13)
+(1017, 'Elizabeth Brown', 190000.0, 12)
+(1018, 'Elizabeth White', 200000.0, 10)
+(1019, 'Elizabeth Black', 30000.0, 9)
+(1020, 'Elizabeth Pink', 20000.0, 9)
+(1021, 'Elizabeth Gray', 30000.0, 9)
+(1022, 'Elizabeth Purple', 40000.0, 9)
+(1023, 'Elizabeth Orange', 50000.0, 9)
+(1024, 'Elizabeth Yellow', 60000.0, 9)
+(1025, 'Elizabeth Blue', 70000.0, 9)
+(1026, 'Elizabeth Green', 80000.0, 15)
+(1027, 'Roi Cohen', 90000.0, 15)
+(1028, 'Roi Levy', 100000.0, 15)
+(1029, 'Roi Green', 110000.0, 15)
+(1030, 'Roi Brown', 120000.0, 15)
+(1031, 'Roi White', 130000.0, 15)
+(1032, 'Roi Black', 140000.0, 15)
+(1033, 'John Smith', 50000.0, 1)
+(1034, 'Jane Doe', 60000.0, 1)
+(1035, 'Bob Johnson', 45000.0, 2)
+(1036, 'Alice Williams', 55000.0, 2)
+(1037, 'Mike Brown', 65000.0, 3)
+(1038, 'Sue Davis', 75000.0, 3)
+(1039, 'Tom Davis', 85000.0, 3)
+(1040, 'Jerry Smith', 95000.0, 1)
+(1041, 'Alice Johnson', 105000.0, 2)
+(1042, 'Bob Williams', 115000.0, 2)
+(1043, 'Mike Davis', 125000.0, 3)
+(1044, 'Sue Smith', 135000.0, 1)
+(1045, 'Tom Johnson', 145000.0, 2)
+(1046, 'Jerry Williams', 155000.0, 2)
+(1047, 'Alice Brown', 165000.0, 3)
+(1048, 'Bob Davis', 175000.0, 3)
+(1049, 'Mike Smith', 185000.0, 1)
+(1050, 'Sue Johnson', 195000.0, 2)
+(1051, 'Tom Williams', 205000.0, 2)
+(1052, 'Jerry Brown', 215000.0, 3)
+(1053, 'Alice Davis', 225000.0, 3)
+(1054, 'Bob Smith', 235000.0, 1)
+(1055, 'Mike Johnson', 245000.0, 2)
+(1056, 'Sue Williams', 255000.0, 2)
+(1057, 'Tom Brown', 265000.0, 3)
+(1058, 'Jerry Davis', 275000.0, 3)
+(1059, 'Alice Smith', 285000.0, 13)
+(1060, 'Bob Johnson', 295000.0, 13)
+(1061, 'Mike Williams', 305000.0, 15)
+(1062, 'Sue Brown', 315000.0, 25)
+(1063, 'Tom Davis', 325000.0, 25)
+(1064, 'Jerry Smith', 335000.0, 24)
+(1065, 'Alice Johnson', 345000.0, 23)
+(1066, 'Bob Williams', 355000.0, 22)
+(1067, 'Mike Brown', 365000.0, 21)
+(1068, 'Sue Davis', 375000.0, 20)
+(1069, 'Tom Smith', 385000.0, 19)
+(1070, 'Jerry Johnson', 395000.0, 18)
+(1071, 'Alice Williams', 405000.0, 17)
+(1072, 'Bob Brown', 415000.0, 16)
+(1073, 'Mike Davis', 425000.0, 15)
+(1074, 'Sue Smith', 435000.0, 14)
+(1075, 'Tom Johnson', 445000.0, 13)
+(1076, 'Jerry Williams', 455000.0, 12)
+(1077, 'Alice Brown', 465000.0, 11)
+(1078, 'Bob Davis', 475000.0, 10)
+(1079, 'Mike Smith', 485000.0, 9)
+(1080, 'Sue Johnson', 495000.0, 8)
+(1081, 'Tom Williams', 505000.0, 7)
+(1082, 'Jerry Brown', 515000.0, 6)
+(1083, 'Alice Davis', 525000.0, 5)
+(1084, 'Bob Smith', 535000.0, 4)
+(1085, 'Mike Johnson', 545000.0, 3)
+(1086, 'Sue Williams', 555000.0, 2)
+(1087, 'Tom Brown', 565000.0, 1)
+(1088, 'Jerry Davis', 575000.0, 1)
+(1089, 'Alice Smith', 585000.0, 2)
+(1090, 'Bob Johnson', 595000.0, 3)
+(1091, 'Mike Williams', 605000.0, 4)
+(1092, 'Sue Brown', 615000.0, 5)
+(1093, 'Tom Davis', 625000.0, 6)
+(1094, 'Jerry Smith', 635000.0, 7)
+(1095, 'Alice Johnson', 645000.0, 8)
+(1096, 'Bob Williams', 655000.0, 9)
+(1097, 'Mike Brown', 665000.0, 10)
+(1098, 'Sue Davis', 675000.0, 11)
+(1099, 'Tom Smith', 685000.0, 12)
+(1100, 'Jerry Johnson', 695000.0, 13)
+(1101, 'Alice Williams', 705000.0, 14)
+(1102, 'Bob Brown', 715000.0, 15)
+(1103, 'Mike Davis', 725000.0, 16)
+(1104, 'Sue Smith', 735000.0, 17)
+(1105, 'Tom Johnson', 745000.0, 18)
+(1106, 'Jerry Williams', 755000.0, 19)
+(1107, 'Alice Brown', 765000.0, 20)
+(1108, 'Bob Davis', 775000.0, 21)
+(1109, 'Mike Smith', 785000.0, 22)
+(1110, 'Sue Johnson', 795000.0, 23)
+Products
+(1, 'Apple', 0.5, 10)
+(2, 'Banana', 0.25, 20)
+(3, 'Orange', 0.75, 185)
+(4, 'Grapes', 1.5, 5)
+(5, 'Mango', 2.0, 7)
+(6, 'Peach', 1.25, 12)
+(7, 'Pineapple', 3.0, 28)
+(8, 'Strawberry', 1.75, 9)
+(9, 'Blueberry', 2.5, 6)
+(10, 'Raspberry', 1.5, 11)
+(11, 'Blackberry', 1.75, 1220)
+(12, 'Watermelon', 3.5, 14)
+(13, 'Cantaloupe', 2.75, 6)
+(14, 'Honeydew', 2.25, 7)
+(15, 'Cherry', 1.25, 12)
+(16, 'Lemon', 0.75, 15)
+(17, 'bread', 1.5, 5)
+(18, 'cheese', 2.0, 7)
+(19, 'meat', 1.25, 12)
+(20, 'ice cream', 1.75, 1489)
+(21, 'cookies', 2.5, 6)
+(22, 'coffee', 1.5, 11)
+(23, 'tea', 1.75, 50)
+(24, 'juice', 3.5, 4)
+(25, 'water', 2.75, 6)
+(26, 'beer', 2.25, 7)
+(27, 'wine', 1.25, 12)
+(28, 'whiskey', 0.75, 15)
+(29, 'rum', 1.5, 25)
+(30, 'vodka', 2.0, 267)
+(31, 'gin', 1.25, 12)
+(32, 'tonic', 1.75, 9)
+(33, 'soda', 2.5, 6)
+(34, 'milk', 1.5, 11)
+(35, 'cream', 1.75, 10)
+(36, 'sugar', 3.5, 104)
+(37, 'salt', 2.75, 6)
+(38, 'pepper', 2.25, 7)
+(39, 'eggs', 1.25, 12)
+(40, 'flour', 0.75, 35)
+(41, 'syrup', 1.5, 615)
+(42, 'butter', 2.0, 7)
+(43, 'lettuce', 1.25, 12)
+(44, 'tomato', 1.75, 9)
+(45, 'onion', 2.5, 6)
+(46, 'carrot', 1.5, 11)
+(47, 'celery', 1.75, 10)
+(48, 'cucumber', 3.5, 4)
+(49, 'spinach', 2.75, 6)
+(50, 'beet', 2.25, 7)
+(51, 'potato', 1.25, 12)
+(52, 'yam', 0.75, 15)
+(53, 'corn', 1.5, 5)
+(54, 'pumpkin', 2.0, 7)
+(55, 'peas', 1.25, 2)
+(56, 'beans', 1.75, 9)
+(57, 'peanut', 2.5, 6)
+(58, 'almond', 1.5, 11)
+(59, 'pecan', 1.75, 10)
+(60, 'macadamia', 3.5, 4)
+(61, 'bran', 2.75, 6)
+(62, 'oat', 2.25, 7)
+(63, 'bacon', 1.25, 12)
+(64, 'sausage', 0.75, 15)
+(65, 'ham', 1.5, 5)
+(66, 'steak', 2.0, 7)
+(67, 'chicken', 1.25, 12)
+(68, 'pork', 1.75, 9)
+(69, 'beef', 2.5, 6)
+(70, 'fish', 1.5, 11)
+(71, 'shrimp', 1.75, 570)
+(72, 'crab', 3.5, 4)
+(73, 'lobster', 2.75, 6)
+(74, 'clam', 2.25, 7)
+(75, 'oyster', 1.25, 12)
+(76, 'shark', 0.75, 15)
+(77, 'whale', 1.5, 5)
+(78, 'dolphin', 2.0, 7)
+(79, 'seal', 1.25, 12)
+(80, 'alligator', 1.75, 9)
+(81, 'crocodile', 2.5, 106)
+(82, 'snake', 1.5, 61)
+(83, 'cat', 1.75, 10)
+(84, 'dog', 3.5, 4)
+(85, 'ferret', 2.75, 6)
+(86, 'parrot', 2.25, 7)
+(87, 'goat', 1.25, 62)
+(88, 'duck', 0.75, 15)
+(89, 'goose', 1.5, 5)
+(90, 'deer', 2.0, 7)
+(91, 'rabbit', 1.25, 12)
+(92, 'moose', 1.75, 9)
+(93, 'antelope', 2.5, 6)
+(94, 'zebra', 1.5, 11)
+(95, 'elephant', 1.75, 10)
+(96, 'lion', 3.5, 4)
+(97, 'tiger', 2.75, 6)
+(98, 'leopard', 2.25, 7)
+(99, 'snake', 1.25, 12)
+(100, 'monkey', 0.75, 15)
+(101, 'ape', 1.5, 5)
+(102, 'gorilla', 2.0, 7)
+(103, 'hippo', 1.25, 12)
+(104, 'zebra', 1.75, 9)
+(105, 'alligator', 2.5, 6)
+(106, 'crocodile', 1.5, 11)
+(107, 'snake', 1.75, 10)
+(108, 'cat', 3.5, 4)
+(109, 'dog', 2.75, 6)
+(110, 'ferret', 2.25, 7)
+(111, 'parrot', 1.25, 12)
+Suppliers
+(1, 'Acme Inc.', '(123) 456-7890')
+(2, 'XYZ Corp.', '(234) 567-8901')
+(3, 'ABC Enterprises', '(345) 678-9012')
+(4, 'Def Co.', '(456) 789-0123')
+(5, 'Ghi Inc.', '(567) 890-1234')
+(6, 'Jkl Enterprises', '(678) 901-2345')
+(7, 'Mno Co.', '(789) 012-3456')
+(8, 'Pqr Inc.', '(890) 123-4567')
+(9, 'Stu Enterprises', '(901) 234-5678')
+(10, 'Vwx Co.', '(012) 345-6789')
+(11, 'Yza Inc.', '(123) 456-7890')
+(12, 'Bcd Enterprises', '(234) 567-8901')
+(13, 'Efg Co.', '(345) 678-9012')
+(14, 'Hij Inc.', '(456) 789-0123')
+(15, 'Klm Enterprises', '(567) 890-1234')
+(16, 'Nop Co.', '(678) 901-2345')
+(17, 'Qrs Inc.', '(789) 012-3456')
+(18, 'Tuv Enterprises', '(890) 123-4567')
+(19, 'Wxy Co.', '(901) 234-5678')
+(20, 'Zab Inc.', '(012) 345-6789')
+(21, 'Acme Inc.', '(123) 456-7890')
+(22, 'XYZ Corp.', '(234) 567-8901')
+(23, 'ABC Enterprises', '(345) 678-9012')
+(24, 'Def Co.', '(456) 789-0123')
+(25, 'Ghi Inc.', '(567) 890-1234')
+(26, 'Jkl Enterprises', '(678) 901-2345')
+(27, 'Mno Co.', '(789) 012-3456')
+(28, 'Pqr Inc.', '(890) 123-4567')
+(29, 'Stu Enterprises', '(901) 234-5678')
+(30, 'Vwx Co.', '(012) 345-6789')
+(31, 'Yza Inc.', '(123) 456-7890')
+(32, 'Bcd Enterprises', '(234) 567-8901')
+(33, 'Efg Co.', '(345) 678-9012')
+(34, 'Hij Inc.', '(456) 789-0123')
+(35, 'Klm Enterprises', '(567) 890-1234')
+(36, 'Nop Co.', '(678) 901-2345')
+(37, 'Qrs Inc.', '(789) 012-3456')
+(38, 'Tuv Enterprises', '(890) 123-4567')
+(39, 'Wxy Co.', '(901) 234-5678')
+(40, 'Zab Inc.', '(012) 345-6789')
+(41, 'Acme Inc.', '(123) 456-7890')
+(42, 'XYZ Corp.', '(234) 567-8901')
+(43, 'ABC Enterprises', '(345) 678-9012')
+(44, 'Def Co.', '(456) 789-0123')
+(45, 'Ghi Inc.', '(567) 890-1234')
+(46, 'Jkl Enterprises', '(678) 901-2345')
+(47, 'Mno Co.', '(789) 012-3456')
+(48, 'Pqr Inc.', '(890) 123-4567')
+(49, 'Stu Enterprises', '(901) 234-5678')
+(50, 'Vwx Co.', '(012) 345-6789')
+(51, 'Yza Inc.', '(123) 456-7890')
+(52, 'Bcd Enterprises', '(234) 567-8901')
+(53, 'Efg Co.', '(345) 678-9012')
+(54, 'Hij Inc.', '(456) 789-0123')
+(55, 'Klm Enterprises', '(567) 890-1234')
+(56, 'Nop Co.', '(678) 901-2345')
+(57, 'Qrs Inc.', '(789) 012-3456')
+(58, 'Tuv Enterprises', '(890) 123-4567')
+(59, 'Wxy Co.', '(901) 234-5678')
+(60, 'Zab Inc.', '(012) 345-6789')
+(61, 'Acme Inc.', '(123) 456-7890')
+(62, 'XYZ Corp.', '(234) 567-8901')
+(63, 'ABC Enterprises', '(345) 678-9012')
+(64, 'Def Co.', '(456) 789-0123')
+(65, 'Ghi Inc.', '(567) 890-1234')
+
+Employees report
+Alice Brown 165000.0 Los Angeles 0
+Alice Brown 465000.0 Ramat Gan 0
+Alice Brown 765000.0 Netanya 0
+Alice Davis 225000.0 Los Angeles 0
+Alice Davis 525000.0 Petah Tikva 0
+Alice Johnson 105000.0 Chicago 0
+Alice Johnson 345000.0 Rishon Lezion 0
+Alice Johnson 645000.0 Beer Sheva 0
+Alice Smith 285000.0 Herzliya 0
+Alice Smith 585000.0 Chicago 0
+Alice Williams 55000.0 Chicago 0
+Alice Williams 405000.0 Jerusalem 0
+Alice Williams 705000.0 Modiin 0
+Bob Brown 415000.0 Jericho 0
+Bob Brown 715000.0 HaSharon 0
+Bob Davis 175000.0 Los Angeles 0
+Bob Davis 475000.0 Rehovot 0
+Bob Davis 775000.0 Rehovot 0
+Bob Johnson 45000.0 Chicago 0
+Bob Johnson 295000.0 Herzliya 0
+Bob Johnson 595000.0 Los Angeles 0
+Bob Smith 235000.0 New York 0
+Bob Smith 535000.0 Tel Aviv 0
+Bob Williams 115000.0 Chicago 0
+Bob Williams 355000.0 Ramat Gan 0
+Bob Williams 655000.0 Netanya 0
+Elizabeth Black 30000.0 Netanya 0
+Elizabeth Blue 70000.0 Netanya 0
+Elizabeth Brown 190000.0 Rishon Lezion 0
+Elizabeth Cohen 160000.0 Herzliya 0
+Elizabeth Gray 30000.0 Netanya 50.0
+Elizabeth Green 180000.0 Herzliya 0
+Elizabeth Green 80000.0 HaSharon 0
+Elizabeth Levy 170000.0 Herzliya 0
+Elizabeth Orange 50000.0 Netanya 0
+Elizabeth Pink 20000.0 Netanya 150.0
+Elizabeth Purple 40000.0 Netanya 75.0
+Elizabeth White 200000.0 Rehovot 0
+Elizabeth Yellow 60000.0 Netanya 0
+Elizabeth shlomo 150000.0 Herzliya 0
+Jane Doe 60000.0 New York 0
+Jerry Brown 215000.0 Los Angeles 0
+Jerry Brown 515000.0 Jerusalem 0
+Jerry Davis 275000.0 Los Angeles 0
+Jerry Davis 575000.0 New York 0
+Jerry Johnson 395000.0 Haifa 0
+Jerry Johnson 695000.0 Herzliya 0
+Jerry Smith 95000.0 New York 0
+Jerry Smith 335000.0 Herzliya 0
+Jerry Smith 635000.0 Haifa 0
+Jerry Williams 155000.0 Chicago 0
+Jerry Williams 455000.0 Rishon Lezion 0
+Jerry Williams 755000.0 Beer Sheva 0
+Jhon Doe 30000.0 New York 0
+John Black 70000.0 Petah Tikva 0
+John Blue 90000.0 Haifa 0
+John Brown 50000.0 Los Angeles 77.5
+John Gray 110000.0 Netanya 42.5
+John Green 80000.0 Jerusalem 0
+John Orange 130000.0 Ramat Gan 0
+John Pink 100000.0 Beer Sheva 122.5
+John Purple 120000.0 Rehovot 0
+John Smith 40000.0 Chicago 0
+John Smith 50000.0 New York 0
+John White 60000.0 Tel Aviv 7.5
+John Yellow 140000.0 Rishon Lezion 0
+Mike Brown 65000.0 Los Angeles 0
+Mike Brown 365000.0 Rehovot 0
+Mike Brown 665000.0 Rehovot 0
+Mike Davis 125000.0 Los Angeles 0
+Mike Davis 425000.0 HaSharon 0
+Mike Davis 725000.0 Jericho 0
+Mike Johnson 245000.0 Chicago 0
+Mike Johnson 545000.0 Los Angeles 0
+Mike Smith 185000.0 New York 0
+Mike Smith 485000.0 Netanya 0
+Mike Smith 785000.0 Ramat Gan 0
+Mike Williams 305000.0 HaSharon 0
+Mike Williams 605000.0 Tel Aviv 0
+Roi Black 140000.0 HaSharon 0
+Roi Brown 120000.0 HaSharon 0
+Roi Cohen 90000.0 HaSharon 0
+Roi Green 110000.0 HaSharon 0
+Roi Levy 100000.0 HaSharon 0
+Roi White 130000.0 HaSharon 0
+Sue Brown 315000.0 Modiin 0
+Sue Brown 615000.0 Petah Tikva 0
+Sue Davis 75000.0 Los Angeles 0
+Sue Davis 375000.0 Netanya 0
+Sue Davis 675000.0 Ramat Gan 0
+Sue Johnson 195000.0 Chicago 0
+Sue Johnson 495000.0 Beer Sheva 0
+Sue Johnson 795000.0 Rishon Lezion 0
+Sue Smith 135000.0 New York 0
+Sue Smith 435000.0 Modiin 0
+Sue Smith 735000.0 Jerusalem 0
+Sue Williams 255000.0 Chicago 0
+Sue Williams 555000.0 Chicago 0
+Tom Brown 265000.0 Los Angeles 0
+Tom Brown 565000.0 New York 0
+Tom Davis 85000.0 Los Angeles 0
+Tom Davis 325000.0 Modiin 0
+Tom Davis 625000.0 Jerusalem 0
+Tom Johnson 145000.0 Chicago 0
+Tom Johnson 445000.0 Herzliya 0
+Tom Johnson 745000.0 Haifa 0
+Tom Smith 385000.0 Beer Sheva 0
+Tom Smith 685000.0 Rishon Lezion 0
+Tom Williams 205000.0 Chicago 0
+Tom Williams 505000.0 Haifa 0
+
+Activities report
+('20230101', 'Orange', 100, None, 'Acme Inc.')
+('20230101', 'Peach', 50, None, 'XYZ Corp.')
+('20230201', 'Orange', -20, 'John Brown', None)
+('20230301', 'Orange', -10, 'John White', None)
+('20230301', 'Peach', -50, 'John Brown', None)
+('20230401', 'tea', 20, None, 'Ghi Inc.')
+('20230501', 'Watermelon', 10, None, 'Jkl Enterprises')
+('20230501', 'Pineapple', 50, None, 'Ghi Inc.')
+('20230601', 'Orange', 100, None, 'Jkl Enterprises')
+('20230601', 'Peach', 50, None, 'Mno Co.')
+('20230701', 'Pineapple', -20, 'John Pink', None)
+('20230801', 'Pineapple', -10, 'John Gray', None)
+('20230801', 'Peach', -50, 'John Pink', None)
+('20230901', 'tea', 20, None, 'Yza Inc.')
+('20231001', 'Blackberry', 10, None, 'Yza Inc.')
+('20231001', 'goat', 50, None, 'Yza Inc.')
+('20231101', 'crocodile', 100, None, 'Hij Inc.')
+('20231101', 'snake', 50, None, 'Qrs Inc.')
+('20240201', 'ice cream', 20, None, 'Klm Enterprises')
+('20240301', 'Blackberry', 10, None, 'Nop Co.')
+('20240301', 'Pineapple', 50, None, 'Klm Enterprises')
+('20240401', 'Apple', 100, None, 'Nop Co.')
+('20240401', 'coffee', 50, None, 'Qrs Inc.')
+('20240701', 'ice cream', 20, None, 'Bcd Enterprises')
+('20240801', 'Blackberry', 10, None, 'Acme Inc.')
+('20240801', 'Pineapple', -50, 'Elizabeth Pink', None)
+('20240901', 'coffee', -50, 'Elizabeth Purple', None)
+('20241201', 'ice cream', 20, None, 'Bcd Enterprises')
+('20250101', 'Blackberry', 10, None, 'Acme Inc.')
+('20250501', 'ice cream', 20, None, 'Nop Co.')
+('20250601', 'Blackberry', 10, None, 'Stu Enterprises')
+('20250701', 'Apple', -100, 'Elizabeth Gray', None)
+('20251001', 'ice cream', 200, None, 'Acme Inc.')
+('20251101', 'shrimp', 560, None, 'Acme Inc.')
+('20260301', 'ice cream', 200, None, 'Bcd Enterprises')
+('20260401', 'Blackberry', 100, None, 'Acme Inc.')
+('20260801', 'ice cream', 290, None, 'Bcd Enterprises')
+('20260901', 'Blackberry', 190, None, 'Acme Inc.')
+('20270101', 'vodka', 260, None, 'Bcd Enterprises')
+('20270201', 'syrup', 610, None, 'Acme Inc.')
+('20270601', 'rum', 20, None, 'Bcd Enterprises')
+('20270701', 'sugar', 100, None, 'Acme Inc.')
+('20271001', 'peas', -10, 'John Gray', None)
+('20271201', 'flour', 20, None, 'Bcd Enterprises')
+('20271201', 'Blackberry', 10, None, 'Acme Inc.')
+('20280401', 'ice cream', 20, None, 'Nop Co.')
+('20280501', 'Blackberry', 10, None, 'Stu Enterprises')
+('20280501', 'Pineapple', 50, 'Elizabeth Pink', None)
+('20280901', 'ice cream', 200, None, 'Acme Inc.')
+('20281001', 'Blackberry', 560, None, 'Acme Inc.')
+('20290201', 'ice cream', 200, None, 'Bcd Enterprises')
+('20290301', 'Blackberry', 100, None, 'Acme Inc.')
+('20290701', 'ice cream', 290, None, 'Bcd Enterprises')
+('20290801', 'Blackberry', 190, None, 'Acme Inc.')
+('20290801', 'Pineapple', -50, 'Elizabeth Pink', None)
